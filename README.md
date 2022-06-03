@@ -4,12 +4,13 @@ SQL
 PLSQL
 Python
 Javascript
-GO
+Angular
 API
 .NET
 - 🌱 I’m currently learning ...
 SQL
 PLSQL
+Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
