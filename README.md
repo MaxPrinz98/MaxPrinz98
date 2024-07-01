@@ -5,12 +5,12 @@ PLSQL
 Python
 Javascript
 Angular
-API
-.NET
 - 🌱 I’m currently learning ...
 SQL
 PLSQL
 Angular
+Python
+Pandas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
