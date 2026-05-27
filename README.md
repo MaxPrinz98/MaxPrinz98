@@ -3,14 +3,14 @@
 SQL
 PLSQL
 Python
-Javascript
-Angular
+Machine Learning
+Deep Learning
+Computer Vision
+Sport Analytics
 - 🌱 I’m currently learning ...
 SQL
 PLSQL
-Angular
-Python
-Pandas
+Sport Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
